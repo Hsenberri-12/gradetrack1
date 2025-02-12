@@ -38,9 +38,9 @@
 
         android:textSize="14sp"/>
 
-    <!-- Table Layout to Display Schedule -->
+   
 
-    <!-- Logout Button (at the bottom) -->
+ 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -95,7 +95,7 @@
                         android:textStyle="bold" />
                 </TableRow>
 
-                <!-- Example Data Row -->
+              
                 <TableRow>
 
                     <TextView
